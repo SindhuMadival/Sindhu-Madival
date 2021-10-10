@@ -1,0 +1,14 @@
+.one{
+    color:green;
+    font-size:2rem;
+}
+.two{
+    color: red;
+}
+.three{
+     
+     font-size:3rem;
+}
+.three span{
+    color:yellow;
+}

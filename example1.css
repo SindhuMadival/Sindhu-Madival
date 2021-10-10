@@ -1,0 +1,36 @@
+h1{
+    color:blue;
+    font-family:Arial;
+    
+}
+h4{
+    color:green;
+    font-style:italic;
+    font-size:20px;
+    margin-bottom:1px;
+    margin-top:2px;
+}
+
+img{
+    margin-left:650px;
+    height:300px;
+    width:200px;
+}
+
+h3{
+    margin-top:1px;
+    margin-bottom:1px;
+    font-size:15px;
+}
+h2{
+    margin-left:30px;
+    margin-top:1px;
+    font-size:25px;
+}
+h5{
+    font-size:20px;
+    margin-top:1px;
+    margin-bottom:1px;
+    color:purple;
+
+}

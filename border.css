@@ -1,3 +1,15 @@
-.abc{
-    border:1px solid purple;
+p{
+    border:5px dotted black;
+    border-bottom-color:gold;
+}
+.a{
+    border:5px dashed black;
+
+}
+.b{
+    border:5px double red;
+    border-top-width: 10px;
+}
+.c{
+    border:5px groove;
 }

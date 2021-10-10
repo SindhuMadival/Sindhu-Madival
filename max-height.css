@@ -1,0 +1,13 @@
+p{
+    border: 1px solid green;
+    height:auto;
+}
+
+.home{
+    border: 1px solid blue;
+    min-height:190px;
+}
+.home1{
+    border: 1px solid red;
+    max-height:140px;
+}
