@@ -1,0 +1,35 @@
+.home{
+    border:1px solid red;
+    width:300px;
+    height:200px;
+    background-color: skyblue;
+    display:flex;
+    align-items:center;
+    margin-bottom:20px;
+}
+.home1{
+    border:1px solid red;
+    width:300px;
+    height:200px;
+    background-color: skyblue;
+    display:flex;
+    align-items:flex-start;
+    margin-bottom:20px;
+}
+.home2{
+    border:1px solid red;
+    width:300px;
+    height:200px;
+    background-color: skyblue;
+    display:flex;
+    align-items:flex-end;
+    margin-bottom:20px;
+}
+.home3{
+    border:1px solid red;
+    width:300px;
+    height:200px;
+    background-color: skyblue;
+    display:flex;
+    align-items:stretch;
+}

@@ -1,0 +1,12 @@
+.a{
+    display:flex;
+    border:1px solid blue;
+    flex-direction:row;
+    margin-bottom:20px;
+}
+.b{
+    display:flex;
+    border:1px solid blue;
+    flex-direction:row-reverse;
+}
+

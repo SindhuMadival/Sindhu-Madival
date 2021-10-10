@@ -1,0 +1,11 @@
+.a{
+    display:flex;
+    border:1px solid blue;
+    flex-direction:column;
+    margin-bottom:20px;
+}
+.b{
+    display:flex;
+    border:1px solid blue;
+    flex-direction:column-reverse;
+}

@@ -1,0 +1,36 @@
+p{
+    position:static;
+    border:1px solid red;
+    width:300px;
+}
+.a{
+    position:relative;
+    border: 1px solid green;
+    left:190px;
+    top:60px;
+    margin-bottom: 90px;
+}
+.relative {
+    position: relative;
+    width: 400px;
+    height: 200px;
+    border: 3px solid #73AD21;
+    margin-bottom:150px;
+  } 
+  
+  .absolute {
+    position: absolute;
+    top: 80px;
+    right: 0;
+    width: 200px;
+    height: 100px;
+    border: 3px solid #73AD21;
+  }
+  div.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 100px;
+
+  }
+  
