@@ -1,0 +1,15 @@
+.home{
+    display:grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    row-gap: 20px;
+}
+.one{
+    color:red;
+}
+.two{
+    color:blue;
+
+}
+.three{
+    color:green;
+}

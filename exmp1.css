@@ -1,0 +1,36 @@
+.home{
+    display:flex;
+    align-items:center;
+    justify-content:space-around;
+    
+}
+.home1{
+    font-style:italic;
+    font-size:20px;
+    
+}
+.home2 a{
+    display:flex;
+    flex-direction:column;
+    font-size:20px;
+    text-decoration:none;
+    padding:10px;
+    text-align:left;
+
+}
+.home3 a{
+    display:flex;
+    flex-direction:column;
+    font-size:20px;
+    text-decoration:none;
+    justify-content:space-around;
+    padding:10px;
+
+}
+
+.abc{
+    padding-bottom:70px;
+}
+.home4{
+    font-size:20px;
+}
