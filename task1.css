@@ -1,0 +1,29 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+.media{
+    height:60px ;
+    width:60px;
+    background-color:red;
+
+}
+@media only screen and (max-width:600px){
+    .media {
+        background-color:blueviolet;
+    }
+
+}
+.media1{
+    height:60px ;
+    width:60px;
+    background-color:blue;
+
+}
+@media only screen and (min-width:600px){
+    .media1 {
+        background-color:green;
+    }
+
+}

@@ -1,0 +1,8 @@
+p::after{
+    content:"hello";
+    color:red;
+}
+p::before{
+    content:"good";
+    color:yellowgreen;
+}

@@ -1,0 +1,6 @@
+h1:first-of-type{
+    color:yellowgreen;
+}
+p:last-of-type{
+    color:pink;
+}

@@ -1,0 +1,57 @@
+.container{
+    border:1px solid black;
+    width:700px;
+    margin-left:400px;
+}
+.xyz{
+    padding-left:30px;
+    font-family:arial;
+}
+
+.xyz1{
+    color:yellowgreen;
+    font-weight:bold;
+}
+
+.home{
+    display:flex;
+    border:1px solid black;
+    height: 260px;
+    width:700px;
+    
+}
+.home1{
+    
+    background-color:#2ab2b1;
+    width:350px;
+    padding-top: 30px;
+    padding-left:30px;
+    color:white;
+    
+}
+.abc{
+    font-size:15px;
+    font-weight:100;
+}
+.home2 a{
+    display:flex;
+    text-decoration:none;
+    background-color:yellow ;
+    border:1px solid yellowgreen;
+    color:white;
+    font-size: 0.95rem;
+    border-radius: 5px;
+    padding:10px 50px;
+    width:50px;
+    
+}
+.home3{
+    background-color:#4abebd;
+    width:350px; 
+    padding-top: 30px;
+    padding-left: 30px;
+    color:white;
+}
+.home4{
+    width:50%;
+}

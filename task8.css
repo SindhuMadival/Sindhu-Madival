@@ -1,0 +1,26 @@
+.home{
+    width:400px;
+    height:400px;
+    border-radius:60px;
+    background-color:blue;
+    animation-name:east;
+    animation-duration:5s;
+    animation-iteration-count:4;
+    animation-timing-function:east-out;
+    animation-delay:5s;
+}
+@keyframes east{
+0%{
+    background-color:red;
+}
+
+25%{
+    background-color:green;
+}
+50%{
+    background-color:brown;
+}
+100%{
+    background-color:yellow;
+}
+}
