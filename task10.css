@@ -1,0 +1,90 @@
+/*parent*/
+.home{
+   display: flex;
+}
+/*first class*/
+.home1{
+   
+    background-color: #e38524;
+    width:200px;
+    height:270px;
+    color:white;
+    padding-left: 40px;
+    padding-top: 20px;
+}
+p{
+    width:70%;
+    padding-bottom: 20px;
+}
+/*learn more first class*/
+.abc1 a{
+    color:#e38524;
+    text-decoration: none;
+    border:1px solid white;
+    background-color:white;
+    border-radius:30%;
+    padding:10px 20px;
+}
+
+
+/*second class*/
+.home2{
+    background-color: #016972;
+    width:200px;
+    height:270px;
+    color:white;
+    padding-left: 40px;
+    padding-top: 20px;
+}
+/*learn more second class*/
+.abc2 a{
+    color:#016972;
+    text-decoration: none;
+    border:1px solid white;
+    background-color:white;
+    border-radius:30%;
+    padding:10px 20px;
+}
+/*third class*/
+.home3{
+    background-color: #01413f;
+    width:200px;
+    height:270px;
+    color:white;
+    padding-left: 40px;
+    padding-top: 20px;
+
+}
+/*learn more third class*/
+.abc3 a{
+    color:#01413f;
+    text-decoration: none;
+    border:1px solid white;
+    background-color:white;
+    border-radius:20%;
+    padding:10px 20px;
+}
+/*media querirs*/
+
+@media only screen and (max-width:500px){
+    .home{
+        display:flex;
+        flex-direction: column;
+    }
+
+    
+    .home1{
+
+       width:70%;
+     
+    }
+    .home2{
+       width:70%;
+       
+    }
+    .home3{
+        width:70%;
+       
+    }
+}
+
